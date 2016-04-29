@@ -1,0 +1,28 @@
+name: thinking
+favicon: null
+layout_spectrum: 0.19434857182204723
+typography_spectrum: 0.05606084689497948
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.829541803104803
+  lightness: 0.4198319767601788
+  saturation: 0.7689360112417489
+  rhythmicContrast: 0.7592982344795018
+purpose: []
