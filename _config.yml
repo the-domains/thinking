@@ -1,28 +1,40 @@
-name: thinking
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.4706
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: thinking
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#0e0e0c'
-    - '#625b48'
-    - '#cec8b2'
-    - '#e06347'
-  brandStrength: 0.8125
-  lightness: 0.6875
-  saturation: 0.75
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9178302
+  brandStrength: 1
+  lightness: 0.5794844
+  brandColors:
+    - '#211112'
+    - '#205EFF'
+    - '#5D9FFF'
+    - '#FFFFFF'
+    - '#C1C177'
+  rhythmicContrast: 0.744898
+typography_spectrum: 0.4706
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
