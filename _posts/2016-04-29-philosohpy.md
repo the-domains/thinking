@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "I've mentored many business leaders and junior designers around the world over the past decade; in the neighbourhood of 100 in total. One of the greatest concerns people continue to have today is around failing. Yet that is how we learn, by failing. "
-datePublished: '2016-04-29T15:05:45.724Z'
-dateModified: '2016-04-29T15:04:28.344Z'
+datePublished: '2016-04-29T15:21:43.292Z'
+dateModified: '2016-04-29T15:21:23.128Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-29-philosohpy.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-philosohpy.md
-published: true
 url: philosohpy/index.html
 _type: WebPage
 
