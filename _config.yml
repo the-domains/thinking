@@ -1,5 +1,7 @@
-favicon: null
-name: thinking
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#C1C177'
   rhythmicContrast: 0.744898
 typography_spectrum: 0.4706
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.7792696
+favicon: null
+name: thinking
