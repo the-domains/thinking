@@ -1,8 +1,4 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: thinking
 opengraph:
   image: null
   type: null
@@ -13,28 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.5300752
-  brandStrength: 0.1831364
-  rhythmicContrast: 0.490333
+  saturation: 0.9414608
+  brandStrength: 0.8179377
+  lightness: 0.9307196
   brandColors:
-    - '#211112'
-    - '#205EFF'
-    - '#5D9FFF'
-    - '#FFFFFF'
-    - '#C1C177'
-  lightness: 0.3818474
+    - '#0147FF'
+    - '#18171C'
+    - '#705E47'
+    - '#CDB392'
+    - '#5699FF'
+  rhythmicContrast: 0.8694951
 typography_spectrum: 0.8974221
-layout_spectrum: 0.7620838
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.896348
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: thinking
