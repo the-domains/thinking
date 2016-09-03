@@ -1,4 +1,30 @@
-purpose: []
+typography_spectrum: 0.5257788
+color:
+  saturation: 0.4505908
+  brandStrength: 0.5118152
+  lightness: 0.4914071
+  brandColors:
+    - '#2E0F0C'
+    - '#E2EDEF'
+    - '#3C891B'
+    - '#2DC0E4'
+    - '#DF4A45'
+  rhythmicContrast: 0.5547798
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3378088
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: thinking
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -11,30 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.4505908
-  brandStrength: 0.5118152
-  lightness: 0.4914071
-  brandColors:
-    - '#2E0F0C'
-    - '#E2EDEF'
-    - '#3C891B'
-    - '#2DC0E4'
-    - '#DF4A45'
-  rhythmicContrast: 0.5547798
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: thinking
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5257788
-layout_spectrum: 0.3378088
+description: Sharing Random Thoughts while Testing AI
+purpose: []
