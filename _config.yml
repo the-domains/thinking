@@ -24,6 +24,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Colourful
+    id: 96e6ea7a-54f4-4088-93c0-273daacbb0af
+    type: content
 favicon: null
 collections:
   - index:
