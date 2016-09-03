@@ -28,6 +28,9 @@ navigation:
   - name: Colourful
     id: 96e6ea7a-54f4-4088-93c0-273daacbb0af
     type: content
+  - name: Backyard
+    id: 07b97fc1-f13e-490a-b009-de1786d6ad71
+    type: content
 favicon: null
 collections:
   - index:
